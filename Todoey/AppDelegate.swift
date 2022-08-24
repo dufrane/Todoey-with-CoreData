@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Todoey
 //
-//  Created by Philipp Muellauer on 01/09/2015.
-//  Copyright (c) 2015 London App Brewery. All rights reserved.
+//  Created by Dmytro Vasylenko on 19.08.2022.
+//
 //
 
 import UIKit
